@@ -6,10 +6,10 @@ spring:
   datasource:
     medical:
       type: com.alibaba.druid.pool.DruidDataSource
-      url: jdbc:oracle:thin:@10.20.13.80:1521:orcl
+      url: jdbc:oracle:thin:@localhost:1521:orcl
       driver-class-name: oracle.jdbc.driver.OracleDriver
-      username: wxjdfymedical
-      password: wxjdfymedical
+      username: test
+      password: test
 
 
     pacs:
@@ -19,18 +19,18 @@ spring:
 #      username: root
 #      password: 12345678
       type: com.alibaba.druid.pool.DruidDataSource
-      url: jdbc:sqlserver://10.20.13.1:1433;DatabaseName=RIS_BASIC
+      url: jdbc:sqlserver://localhost:1433;DatabaseName=RIS_BASIC
       driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
-      username: ris
-      password: Wxsy@6789
+      username: test
+      password: test
 
 
     ecg:
       type: com.alibaba.druid.pool.DruidDataSource
-      url: jdbc:oracle:thin:@10.20.13.4:1521:jhrecg
+      url: jdbc:oracle:thin:@localhost:1521:jhrecg
       driver-class-name: oracle.jdbc.driver.OracleDriver
-      username: slpt
-      password: slpt
+      username: test
+      password: test
 
 logging:
   config: classpath:logback-boot.xml
