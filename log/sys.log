@@ -1,0 +1,9 @@
+2021-01-27 15:37:57,426 INFO (StartupInfoLogger.java:55)- Starting MediclarecordcollectionApplication using Java 1.8.0_66 on MS-XOQHVIVHGDPK with PID 14108 (D:\trustSmart\wxsymedical\mediclarecordcollection\build\classes\java\main started by Administrator in D:\trustSmart\wxsymedical\mediclarecordcollection)
+2021-01-27 15:37:57,428 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-01-27 15:37:57,429 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-01-27 15:37:59,200 INFO (StartupInfoLogger.java:61)- Started MediclarecordcollectionApplication in 2.175 seconds (JVM running for 2.854)
+2021-01-27 15:38:00,028 DEBUG (DynamicDataSource.java:21)- datasource: medicalDB
+2021-01-27 15:39:12,429 INFO (StartupInfoLogger.java:55)- Starting MediclarecordcollectionApplication using Java 1.8.0_66 on MS-XOQHVIVHGDPK with PID 10768 (D:\trustSmart\wxsymedical\mediclarecordcollection\build\classes\java\main started by Administrator in D:\trustSmart\wxsymedical\mediclarecordcollection)
+2021-01-27 15:39:12,432 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-01-27 15:39:12,433 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-01-27 15:39:14,175 INFO (StartupInfoLogger.java:61)- Started MediclarecordcollectionApplication in 2.138 seconds (JVM running for 2.822)
